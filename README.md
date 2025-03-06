@@ -1,6 +1,9 @@
 # github-final-project
 
-Clone the repository following the following instructions:
-  conda config --add channels conda-forge 
-  git clone https://github.com/DrNespresso/github-final-project.git
-  cd QBtoWEIS
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+p, principal amount
+t, time period in years
+r, annual rate of interest
+Output
+simple interest = p*t*r
